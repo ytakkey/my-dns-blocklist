@@ -1,4 +1,4 @@
-# Lastupdate ... 2026-03-16 16:37
+# Lastupdate ... 2026-04-17 10:38
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -8652,6 +8652,7 @@
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 adsbookie.com
+0.0.0.0 adsboosters.xyz
 0.0.0.0 adsbox.detik.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 adsbrite.com
