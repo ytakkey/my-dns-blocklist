@@ -1,4 +1,4 @@
-# Lastupdate ... 2026-07-21 11:32
+# Lastupdate ... 2026-07-21 12:03
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -21789,7 +21789,6 @@
 0.0.0.0 clientsrewardspromotion.com
 0.0.0.0 clientstorage.cxense.com
 0.0.0.0 clientsupport-mitglied-pp.net
-0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 clieye.com
 0.0.0.0 cliftonparksales.com
 0.0.0.0 clik2008.popunder.ru
@@ -44486,7 +44485,6 @@
 0.0.0.0 mdnhinc.com
 0.0.0.0 md-nj.lfstmedia.com
 0.0.0.0 mdotm.com
-0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 mdpev.de
 0.0.0.0 mdpl-jp.com
 0.0.0.0 mdpparents.112.2o7.net
