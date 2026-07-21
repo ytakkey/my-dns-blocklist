@@ -1,4 +1,4 @@
-# Lastupdate ... 2026-07-21 12:03
+# Lastupdate ... 2026-07-21 13:04
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -21789,6 +21789,7 @@
 0.0.0.0 clientsrewardspromotion.com
 0.0.0.0 clientstorage.cxense.com
 0.0.0.0 clientsupport-mitglied-pp.net
+0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 clieye.com
 0.0.0.0 cliftonparksales.com
 0.0.0.0 clik2008.popunder.ru
@@ -44507,6 +44508,7 @@
 0.0.0.0 me.xdrig.com
 0.0.0.0 mearrs.com
 0.0.0.0 measure.ameblo.jp
+0.0.0.0 measure.office.com
 0.0.0.0 measuread.com
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 measuremap.com
@@ -45965,6 +45967,7 @@
 0.0.0.0 mobile.controller.duokanbox.com
 0.0.0.0 mobile.desenhoonline.com
 0.0.0.0 mobile.eum-appdynamics.com
+0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.free.baparisappli.com
 0.0.0.0 mobile.free.espaceabonne.info
 0.0.0.0 mobile.free.fr.freepafa.beget.tech
@@ -45998,6 +46001,7 @@
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobile.mobifreak.org
 0.0.0.0 mobile.paypal.com.cgi-bin.artincolor.net
+0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.plugrush.com
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile.square-max.net
@@ -69756,6 +69760,7 @@
 0.0.0.0 voresoxs.com
 0.0.0.0 vorkehrung-sicherheitssystem.cf
 0.0.0.0 vorlon.ferretsoft.com
+0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 vos.line-scdn.net
 0.0.0.0 vosbdxgjpswjw.com
