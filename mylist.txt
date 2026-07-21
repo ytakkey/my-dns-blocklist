@@ -1,4 +1,4 @@
-# Lastupdate ... 2026-07-21 10:48
+# Lastupdate ... 2026-07-21 10:54
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -45968,7 +45968,6 @@
 0.0.0.0 mobile.controller.duokanbox.com
 0.0.0.0 mobile.desenhoonline.com
 0.0.0.0 mobile.eum-appdynamics.com
-0.0.0.0 mobile.events.data.microsoft.com
 0.0.0.0 mobile.free.baparisappli.com
 0.0.0.0 mobile.free.espaceabonne.info
 0.0.0.0 mobile.free.fr.freepafa.beget.tech
@@ -46002,7 +46001,6 @@
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobile.mobifreak.org
 0.0.0.0 mobile.paypal.com.cgi-bin.artincolor.net
-0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile.plugrush.com
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile.square-max.net
@@ -58913,6 +58911,7 @@
 0.0.0.0 selenaryan.com
 0.0.0.0 selesho.co.za
 0.0.0.0 self.assesment.complete.refunds.agent.uk09234832.kmbuk.com
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 self-balanced-compu.000webhostapp.com
 0.0.0.0 selfimprovementideas.com.au
 0.0.0.0 selfnetwork.com
