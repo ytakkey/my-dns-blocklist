@@ -1,4 +1,4 @@
-# Lastupdate ... 2026-07-21 10:59
+# Lastupdate ... 2026-07-21 11:32
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -44509,7 +44509,6 @@
 0.0.0.0 me.xdrig.com
 0.0.0.0 mearrs.com
 0.0.0.0 measure.ameblo.jp
-0.0.0.0 measure.office.com
 0.0.0.0 measuread.com
 0.0.0.0 measuread.com.edgekey.net
 0.0.0.0 measuremap.com
@@ -69759,7 +69758,6 @@
 0.0.0.0 voresoxs.com
 0.0.0.0 vorkehrung-sicherheitssystem.cf
 0.0.0.0 vorlon.ferretsoft.com
-0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 vos.line-scdn.net
 0.0.0.0 vosbdxgjpswjw.com
