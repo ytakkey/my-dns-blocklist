@@ -1,4 +1,4 @@
-# Lastupdate ... 2026-07-21 13:04
+# Lastupdate ... 2026-07-29 18:17
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -12706,6 +12706,7 @@
 0.0.0.0 aplusinteriors.design
 0.0.0.0 aplus-paintinganddecorating.com
 0.0.0.0 apm.crittercism.com
+0.0.0.0 apm.yahoo.co.jp
 0.0.0.0 apmcunjha.com
 0.0.0.0 apmebf.com
 0.0.0.0 apn.c.appier.net
@@ -27322,6 +27323,7 @@
 0.0.0.0 dm.demdex.net
 0.0.0.0 dm.isnssdk.com
 0.0.0.0 dm.mlstat.com
+0.0.0.0 dm.slim01.jp
 0.0.0.0 dm.travelocity.com
 0.0.0.0 dm3adserver.com
 0.0.0.0 dmacdoc.com
@@ -42129,6 +42131,8 @@
 0.0.0.0 linecrs.line-scdn.net
 0.0.0.0 lineew.cn
 0.0.0.0 linehb.cn
+0.0.0.0 line-home.flvcdn.net
+0.0.0.0 line-home.line-scdn.net
 0.0.0.0 lineka.cn
 0.0.0.0 lineme.thick.jp
 0.0.0.0 linemm.cn
@@ -43347,6 +43351,7 @@
 0.0.0.0 lynxtrack.com
 0.0.0.0 lyonsheating.info
 0.0.0.0 lyonsmechanical.com
+0.0.0.0 lyprec.line-scdn.net
 0.0.0.0 lyricadcr.com
 0.0.0.0 lyricalks.com
 0.0.0.0 lyricalsk.com
@@ -48088,6 +48093,7 @@
 0.0.0.0 newsletter-link.com
 0.0.0.0 newslettersponsor.com
 0.0.0.0 news-notification.tools
+0.0.0.0 news-obs.line-scdn.net
 0.0.0.0 newsok.112.2o7.net
 0.0.0.0 newsoxy.us.intellitxt.com
 0.0.0.0 newspp-payment.com
@@ -70062,6 +70068,7 @@
 0.0.0.0 wallet.genom.minerpool.net
 0.0.0.0 wallet-api.urbanairship.com
 0.0.0.0 walletbitcoin.party
+0.0.0.0 wallet-coupon-img.landpress.line.me
 0.0.0.0 wallets-trezor.org
 0.0.0.0 wallet-top-up.org
 0.0.0.0 wallistreet.com
@@ -70215,6 +70222,7 @@
 0.0.0.0 wc0x83ghk.homepage.t-online.de
 0.0.0.0 wcastrprod.122.2o7.net
 0.0.0.0 wcbsimg.dayport.com
+0.0.0.0 wcc-image.line-scdn.net
 0.0.0.0 wccuragpor.pw
 0.0.0.0 wcdn.zoomanalytics.co
 0.0.0.0 wclpvyexgrglobal.com
