@@ -1,4 +1,4 @@
-# Lastupdate ... 2026-07-29 18:17
+# Lastupdate ... 2026-07-29 18:39
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -20688,6 +20688,7 @@
 0.0.0.0 cguggrstf-managssapplicationsss-lockedpurchases-sevicesss.com
 0.0.0.0 cguke-9h64o.ads.tremorhub.com
 0.0.0.0 cguke-unxsc.ads.tremorhub.com
+0.0.0.0 ch.line-scdn.net
 0.0.0.0 ch.questionmarket.com
 0.0.0.0 ch2.criacaodesitesrj.com
 0.0.0.0 ch3snw.us
@@ -22899,6 +22900,7 @@
 0.0.0.0 connct.secure.wellsfargo.com.aaru486.com.au
 0.0.0.0 connect.247media.ads.link4ads.com
 0.0.0.0 connect.decknetwork.net
+0.0.0.0 connect.facebook.net
 0.0.0.0 connect.market
 0.0.0.0 connect.newzia.jp
 0.0.0.0 connect.scroll.com
@@ -63641,6 +63643,7 @@
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.chartboost.com
 0.0.0.0 t.clicktale.net
+0.0.0.0 t.co
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.cpmadvisors.com
 0.0.0.0 t.cr-nielsen.com
@@ -65778,6 +65781,7 @@
 0.0.0.0 tr.himedia.individuad.net
 0.0.0.0 tr.hit.gemius.pl
 0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 tr.line.me
 0.0.0.0 tr.loop.bild.t-online.de
 0.0.0.0 tr.my-affiliate.com
 0.0.0.0 tr.pcm.individuad.net
@@ -73527,6 +73531,7 @@
 0.0.0.0 www.gontijoamaral.hpg.com.br
 0.0.0.0 www.gooddata.com
 0.0.0.0 www.google.com-document-view.alibabatradegroup.com
+0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gopopup.com
 0.0.0.0 www.goreal.at
