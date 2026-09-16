@@ -1,4 +1,4 @@
-# Lastupdate ... 2026-09-16 13:35:53
+# Lastupdate ... 2026-09-16 13:38:14
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
 0.0.0.0 0001.2waky.com
@@ -2409,7 +2409,7 @@
 0.0.0.0 a.larcolaio.it
 0.0.0.0 a.law.com
 0.0.0.0 a.ligatus.com
-0.0.0.0 a.line.me+b24a2b2b2:b45
+0.0.0.0 a.line.me
 0.0.0.0 a.lingospot.com
 0.0.0.0 a.livesportmedia.eu
 0.0.0.0 a.loomia.com
@@ -77999,4 +77999,3 @@
 0.0.0.0 zzz.clickbank.net
 0.0.0.0 zzzezeroe.fr
 0.0.0.0 zzzpooeaz-france.com
-0.0.0.0 ﻿# 280blocker domain filter（)
