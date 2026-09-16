@@ -1,4 +1,4 @@
-# Lastupdate ... 2026-07-29 18:17
+# Lastupdate ... 2026-09-16 10:04
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
@@ -1706,6 +1706,7 @@
 0.0.0.0 54321.zz.am
 0.0.0.0 5486.winxp.primosearch.com
 0.0.0.0 5490.spedads.primosearch.com
+0.0.0.0 54ads.com
 0.0.0.0 54fangtan.com
 0.0.0.0 54-ironbound-plowman.com
 0.0.0.0 54ly.com
@@ -4206,6 +4207,7 @@
 0.0.0.0 ad.za.doubleclick.net
 0.0.0.0 ad.zanox.com
 0.0.0.0 ad.zencudo.co.uk
+0.0.0.0 ad.zetacx.net
 0.0.0.0 ad.zhekouku.cn
 0.0.0.0 ad.zhidian3g.cn
 0.0.0.0 ad.zhuobook.com
@@ -5130,6 +5132,7 @@
 0.0.0.0 adbox.beweb.com
 0.0.0.0 adbox.inbox-online.com
 0.0.0.0 adbox.sina.com.cn
+0.0.0.0 adbpage.com
 0.0.0.0 adbrite.122.2o7.net
 0.0.0.0 adbrite.com
 0.0.0.0 ad-brix.com
@@ -5435,6 +5438,7 @@
 0.0.0.0 ad-house.mobi
 0.0.0.0 adhr.hit.gemius.pl
 0.0.0.0 ad-hub.dable.io
+0.0.0.0 adhub.porcino-kinoko.workers.dev
 0.0.0.0 adhunter.media
 0.0.0.0 adi.admicro.vn
 0.0.0.0 adi.bigmir.net
@@ -9207,6 +9211,7 @@
 0.0.0.0 ads-game-configuration.unityads.unity3d.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 adsgard.aprod.scopely.io
+0.0.0.0 adsgateway.net
 0.0.0.0 adsgen.bangbros.com
 0.0.0.0 adsharenetwork.com
 0.0.0.0 adshooter.com
@@ -12565,6 +12570,7 @@
 0.0.0.0 api.tapsell.ir
 0.0.0.0 api.tapstream.com
 0.0.0.0 api.target2sell.com
+0.0.0.0 api.tblcontent.com
 0.0.0.0 api.theadex.com
 0.0.0.0 api.tllms.com
 0.0.0.0 api.trackuity.com
@@ -14259,6 +14265,7 @@
 0.0.0.0 att.productmadness.com
 0.0.0.0 att.sc.omtrdc.net
 0.0.0.0 attachable-efficien.000webhostapp.com
+0.0.0.0 attacheatableoverlabor.com
 0.0.0.0 attachment-004.bloombergg.net
 0.0.0.0 attachygroup.ga
 0.0.0.0 attack.mapbest.net
@@ -18301,6 +18308,7 @@
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 browsermetrix.segrocers.com
 0.0.0.0 browsing-solutions.com
+0.0.0.0 browsiprod.com
 0.0.0.0 brpnrt.stsdk.vivo.com.cn
 0.0.0.0 brprt.stsdk.vivo.com.cn
 0.0.0.0 brsantandervangohbr.com
@@ -21459,6 +21467,7 @@
 0.0.0.0 click.cheapestpriceviagra.com
 0.0.0.0 click.cheapstuff.com
 0.0.0.0 click.clktraker.com
+0.0.0.0 click.cross-system.com
 0.0.0.0 click.d2pass.com
 0.0.0.0 click.dagbladet.no
 0.0.0.0 click.datablocks.net
@@ -27155,6 +27164,7 @@
 0.0.0.0 display.ad.g.daum.net
 0.0.0.0 display.apester.com
 0.0.0.0 display.bfmio.com
+0.0.0.0 display.digitalclickstime.com
 0.0.0.0 display.digitalriver.com
 0.0.0.0 display.hbpl.co.uk
 0.0.0.0 display.mgmt.xad.com
@@ -53125,6 +53135,7 @@
 0.0.0.0 predictivenetworks.com
 0.0.0.0 predictivesearch.com
 0.0.0.0 predioplus.com
+0.0.0.0 prefecturesuggestions.com
 0.0.0.0 prefer.gutterhelment.com
 0.0.0.0 preferences.trustarc.com
 0.0.0.0 preferences.truste.com
@@ -55969,6 +55980,7 @@
 0.0.0.0 riptow.com
 0.0.0.0 riptownmedia.122.2o7.net
 0.0.0.0 risalbugiss.id
+0.0.0.0 rise.enhance.co.jp
 0.0.0.0 risebeigehelium.com
 0.0.0.0 riskejahgefe.com
 0.0.0.0 riskfreebettingclub.com
@@ -57989,6 +58001,7 @@
 0.0.0.0 scripts.xrenoder.com
 0.0.0.0 scriptvealpatronage.com
 0.0.0.0 scrollingads.hustlermegapass.com
+0.0.0.0 scrollpop.online
 0.0.0.0 scrooge.click10.com
 0.0.0.0 scrooge.clickondetroit.com
 0.0.0.0 scrooge.nbc11.com
@@ -66393,6 +66406,7 @@
 0.0.0.0 trafficmarketplace.com
 0.0.0.0 trafficmasterz.net
 0.0.0.0 trafficmaxx.de
+0.0.0.0 traffic-media.co.uk
 0.0.0.0 trafficmonsterinc.ru
 0.0.0.0 trafficmp.com
 0.0.0.0 trafficmultiplier.com
