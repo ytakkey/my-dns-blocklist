@@ -1,4 +1,4 @@
-# Lastupdate … 2026-10-13 18:19:03
+# Lastupdate … 2026-11-06 11:05:25
 0.0.0.0 0.r.msn.com
 0.0.0.0 0000mps.webpreview.dsl.net
 0.0.0.0 0001.2waky.com
@@ -66465,6 +66465,7 @@
 0.0.0.0 traffiq.com
 0.0.0.0 traffk.info
 0.0.0.0 traffloads.com
+0.0.0.0 traffmovie.com
 0.0.0.0 traffok.cn
 0.0.0.0 trafic-fr.com
 0.0.0.0 trafic.ro
